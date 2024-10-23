@@ -67,5 +67,5 @@ We tried several machine learning models to predict house prices:
 
 ## Next Steps
 To further improve performance:
-- You can add additional features or further optimize the model using techniques such as **hyperparameter tuning** or **cross-validation** atau cara lain yang lebih ***OPTIMAL***. 
+- You can add additional features or further optimize the model using techniques such as **hyperparameter tuning** or **cross-validation** atau other ways that are more ***OPTIMAL***. 
 """
